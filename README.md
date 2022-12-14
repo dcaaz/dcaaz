@@ -2,15 +2,25 @@
 
 ### Uma desenvolvedora apaixonada!
 
- <p align="center" ><img alt="GIF" src="./image/shecodes.png" width="120" /> </p>
+<p align="center" ><img alt="GIF" src="./image/shecodes.png" width="120" /> </p>
 
- <p>Aqui você encontrará algum dos projetos que venho desenvolvendo desde julho/2022 quando iniciei oficialmente minha jornada em tecnologia na Driven Education.</p>
+<p>💻 Acredito que códigos e café solucionam problemas e impactam vidas. ☕️</p>
+
+<p>Aqui você encontrará algum dos projetos que venho desenvolvendo desde julho/2022 quando iniciei oficialmente minha jornada em tecnologia na Driven Education.</p>
+
+<h3 align="left">Mais sobre mim:</h3>
+
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/daniela-corr%C3%AAa-de-azevedo/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin Daniela Corrêa de Azevedo" height="25" width="25" /></a>
+
+</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
 <p align="left">
  
-<a href="https://www.linkedin.com/in/daniela-corr%C3%AAa-de-azevedo/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin Daniela Corrêa de Azevedo" height="25" width="25" /></a> &nbsp; <a  href="mailto:danicorreaazevedo@gmail.com"><img height="20" widht="20" alt="email Daniela Corrêa de Azevedo"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a> 
+<a  href="mailto: danicorreaazevedo@gmail.com"><img height="20" widht="20" alt="email Daniela Corrêa de Azevedo"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a> 
 
 </p>
 
