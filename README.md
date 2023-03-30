@@ -8,6 +8,12 @@
 
 <p>Aqui você encontrará algum dos projetos que venho desenvolvendo desde julho/2022 quando iniciei oficialmente minha jornada em tecnologia na Driven Education.</p>
 
+<h3 align="left">Curiosidades sobre mim:</h3>
+
+- <p>Nasci e sempre morei em Florianópolis 🏝️</p>
+- <p>Amo sertanejo, inclusive, ás vezes faço códigos ouvindo modão 🤠</p>
+- <p>Gosto de assuntos relacionados a autoconhecimento 😀</p>
+
 <h3 align="left">Mais sobre mim:</h3>
 
 <p align="left">
