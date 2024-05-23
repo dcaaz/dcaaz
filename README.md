@@ -6,7 +6,7 @@
 
 <p>💻 Acredito que códigos e café solucionam problemas e impactam vidas. ☕️</p>
 
-<p>Aqui você encontrará algum dos projetos que venho desenvolvendo desde julho/2022 quando iniciei oficialmente minha jornada como desenvolvedora</p>
+<p>Aqui você encontrará algum dos projetos que venho desenvolvendo desde julho/2022 quando iniciei oficialmente minha jornada como desenvolvedora.</p>
 
 <h3 align="left">Curiosidades sobre mim:</h3>
 
