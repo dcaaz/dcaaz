@@ -48,6 +48,4 @@
  <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-br_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&cq_cmp=12212624308&gclid=CjwKCAjw5pShBhB_EiwAvmnNV2ZS3yHbO9Fy-UE1FJgl1NXfGG4xawe2W4fXZsODE-MzW4HzV3GtuxoCkmkQAvD_BwE" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"alt="mongodb"/> </a> 
 <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> </a> 
 <a href="https://ubuntu.com/download" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /> </a> 
-
-![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcaaz&show_icons=true&theme=dracula)
 </p>
